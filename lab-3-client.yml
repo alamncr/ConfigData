@@ -4,7 +4,7 @@ this-is: Common to all profiles
 ---
 spring:
   profiles: default
-lucky-word: Oats
+lucky-word: Toast
 
 ---
 spring:
