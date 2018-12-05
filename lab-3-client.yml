@@ -1,2 +1,12 @@
 ---
 lucky-word: Oats
+
+---
+spring:
+  profiles: test
+lucky-word: Apple
+
+---
+spring:
+  profiles: test2
+lucky-word: Orange
